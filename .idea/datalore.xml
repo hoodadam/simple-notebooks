@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatalorePublishingService">
+    <option name="notebookMapping">
+      <map>
+        <entry key="15447">
+          <value>
+            <map>
+              <entry key="F3tFWHJK8Es.Br7N2lnCCzZ">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="xWDx9OIR2MzYimogen1YNQ" />
+                    <option name="link" value="https://view.datalore.io/notebook/xWDx9OIR2MzYimogen1YNQ" />
+                    <option name="owner" value="F3tFWHJK8Es.Br7N2lnCCzZ" />
+                    <option name="public" value="true" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PublishingService">
+    <option name="notebookMapping">
+      <map>
+        <entry key="15433.F3tFWHJK8Es.Br7N2lnCCzZ" value="{&quot;id&quot;:&quot;dFVNC2AdLHI72pSux4MOgZ&quot;,&quot;link&quot;:&quot;https://view.datalore.io/notebook/dFVNC2AdLHI72pSux4MOgZ&quot;,&quot;public&quot;:false,&quot;owner&quot;:&quot;F3tFWHJK8Es.Br7N2lnCCzZ&quot;}" />
+        <entry key="15447.F3tFWHJK8Es.Br7N2lnCCzZ" value="{&quot;id&quot;:&quot;E34FiL5JIgYsillfxhDzll&quot;,&quot;link&quot;:&quot;https://view.datalore.io/notebook/E34FiL5JIgYsillfxhDzll&quot;,&quot;public&quot;:false,&quot;owner&quot;:&quot;F3tFWHJK8Es.Br7N2lnCCzZ&quot;}" />
+        <entry key="3511.F3tFWHJK8Es.Br7N2lnCCzZ" value="{&quot;id&quot;:&quot;RFSndoB4u8OVDOx0bDHyKQ&quot;,&quot;link&quot;:&quot;https://view.datalore.io/notebook/RFSndoB4u8OVDOx0bDHyKQ&quot;,&quot;public&quot;:true,&quot;owner&quot;:&quot;F3tFWHJK8Es.Br7N2lnCCzZ&quot;}" />
+      </map>
+    </option>
+  </component>
+</project>
